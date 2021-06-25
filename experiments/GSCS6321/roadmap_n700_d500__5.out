@@ -1,0 +1,20 @@
+
+Options
+-------
+Raster occupancy grid: full.tif
+Pickle to save/load roadmap: experiments/GSCS6321//roadmap_n700_d500__5.pickle
+[Optiona] manual points: None
+Building or solving?
+    Building new roadmap.
+    Not solving a path
+
+Roadmap
+-------
+Shape: (1134 x 1259)
+Number of samples: 700
+Number of manual points: 0
+Neighborhood distance: 500.0
+Roadmap graph:
+    Number of nodes: 700
+    Number of edges: 60243
+Build time: 92.8974142074585 seconds
